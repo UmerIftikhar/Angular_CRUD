@@ -2,7 +2,7 @@
 CRUD application using material desing table
 
 The code in this Repository is explained in the following series:  
-Creating Generic Table using Angular Material Design:
+Creating Generic Table using Angular Material Design:  
 https://medium.com/using-generics-to-make-resuable-table-component-in
 
 1. Creating Generic Restful Services in Angular
